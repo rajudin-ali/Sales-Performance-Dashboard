@@ -32,3 +32,12 @@ Clone or download this repository.
 Open the .pbix file using Power BI Desktop.
 
 Explore the dashboard by interacting with filters, slicers, and visuals.
+
+## 🧹 Data Preparation Steps
+1. Verify column data types (e.g., Date in proper date format, Sales and Profit as numeric).
+2. Standardize formats (currency, date, categorical labels).
+3. Identify null/blank values in key fields
+4. Check for duplicate rows (based on Order ID)
+5. Ensure product categories, regions, and customer segments use consistent naming.
+<img width="623" height="356" alt="image" src="https://github.com/user-attachments/assets/c9f1df16-dd0a-4432-bbe6-21365418e54f" />
+
