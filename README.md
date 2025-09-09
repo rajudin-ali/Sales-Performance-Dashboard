@@ -11,19 +11,15 @@ Dataset: Sales Order (public) (Link : https://www.kaggle.com/datasets/adarsh0806
 
 ## 📈 Key KPIs
 
-Total Sales – overall revenue performance
+Total Revenue – Sum of all Total Sales.
 
-Total Profit & Profit Margin – financial health and efficiency
+Average Order Value (AOV) – Total Revenue ÷ Total Orders.
 
-Sales by Region – performance comparison across geographic areas
+Total Quantity Sold – Sum of Quantity across all orders.
 
-Sales by Product Category & Sub-Category – product contribution and best sellers
+Sales by Product Category – Breakdown of revenue per Product Category.
 
-Customer Segmentation – insights by customer type and segment
-
-Discount Impact – relationship between discounts, sales volume, and profitability
-
-Monthly/Yearly Trends – sales and profit over time
+Top-Selling Products – Ranking based on Total Sales or Quantity.
 
 ## 🚀 How to Run the Project
 
