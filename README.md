@@ -7,7 +7,7 @@ This dashboard provides real-time insights into sales revenue, profit, and perfo
 
 Power BI Desktop
 
-Dataset: Superstore Sales (public) (Link : https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales )
+Dataset: Sales Order (public) (Link : https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales )
 
 ## 📈 Key KPIs
 
