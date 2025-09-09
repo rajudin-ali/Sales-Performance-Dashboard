@@ -1,15 +1,15 @@
 # 📊 Sales Performance Dashboard
-📝 Description
+## 📝 Description
 
 This dashboard provides real-time insights into sales revenue, profit, and performance trends. It highlights top-performing products, regions, and customer segments, enabling businesses to make data-driven decisions and assess the effectiveness of discounts and pricing strategies.
 
-🛠 Tools
+## 🛠 Tools
 
 Power BI Desktop
 
 Dataset: Superstore Sales (public) (Link : https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales )
 
-📈 Key KPIs
+## 📈 Key KPIs
 
 Total Sales – overall revenue performance
 
@@ -25,7 +25,7 @@ Discount Impact – relationship between discounts, sales volume, and profitabil
 
 Monthly/Yearly Trends – sales and profit over time
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 Clone or download this repository.
 
