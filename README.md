@@ -11,15 +11,17 @@ Dataset: Sales Order (public) (Link : https://www.kaggle.com/datasets/adarsh0806
 
 ## 📈 Key KPIs
 
-Total Revenue – Sum of all Total Sales.
-
-Average Order Value (AOV) – Total Revenue ÷ Total Orders.
+Total Sales – Sum of all Total Sales.
 
 Total Quantity Sold – Sum of Quantity across all orders.
 
 Sales by Product Category – Breakdown of revenue per Product Category.
 
 Top-Selling Products – Ranking based on Total Sales or Quantity.
+
+Top Product Ratings - Average rating of each customer
+
+Monthly Sales Trends
 
 ## 🚀 How to Run the Project
 
@@ -37,3 +39,5 @@ Explore the dashboard by interacting with filters, slicers, and visuals.
 5. Ensure product categories, regions, and customer segments use consistent naming.
 <img width="623" height="356" alt="image" src="https://github.com/user-attachments/assets/c9f1df16-dd0a-4432-bbe6-21365418e54f" />
 
+## Dashboard Visualization Results
+<img width="663" height="330" alt="image" src="https://github.com/user-attachments/assets/66131e0d-94cf-4e19-a443-08b27f15a8ff" />
